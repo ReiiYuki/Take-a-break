@@ -1,10 +1,10 @@
 {
-  "name": "tabe25m",
+  "name": "Take A Break",
   "main": "./lib/tabe25m",
   "version": "1.1.0",
-  "description": "TAKE A BREAK EVERY 25 MINUTES",
+  "description": "TAKE A BREAK",
   "keywords": [],
-  "repository": "https://github.com/dtinth/tabe25m",
+  "repository": "https://github.com/ReiiYuki/Take-a-break",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
